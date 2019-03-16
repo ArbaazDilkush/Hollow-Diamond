@@ -1,0 +1,15 @@
+The output of hollow diamond shape is:
+
+
+     #
+    # #
+   #   #
+  #     #
+ #       #
+#         #
+#         #
+ #       #
+  #     #
+   #   #
+    # #
+     #
